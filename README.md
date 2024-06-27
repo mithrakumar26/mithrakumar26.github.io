@@ -6,7 +6,9 @@ The Network Planning System (NPS) Dashboard is a web-based application designed 
 ## Technologies Used
 **HTML** 
   - For structuring the web page content.
+
 **CSS**
   - For styling the UI elements.
+
 **JavaScript**
   - For interactivity and dynamic content.
